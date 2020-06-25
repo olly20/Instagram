@@ -1,0 +1,39 @@
+.Header {
+  padding: 0 20px;
+  background-color: rgb(206, 184, 184);
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+a.instagram:hover {
+  transform: translateY(-2px);
+}
+
+a.instagram {
+  color: black;
+  margin: 0 1rem;
+}
+.Instagram {
+  height: 40px;
+  width: auto;
+}
+.Logo {
+  display: flex;
+  align-items: center;
+}
+.Logo > img {
+  height: 45px;
+}
+.Icons {
+  display: inline-block;
+  margin-left: 22px;
+}
+.Icons > svg {
+  margin-left: 22px;
+}
+.Search {
+  display: flex;
+  justify-content: center;
+  flex-direction: center;
+}
