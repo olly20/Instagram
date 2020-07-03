@@ -71,3 +71,16 @@ a.instagram {
   font-size: 16px;
   margin-right: 40px;
 }
+.imagegallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+.gallery {
+  width: 300px;
+  height: 300px;
+}
+.gallery > img {
+  width: 252px;
+  height: 252px;
+  margin: 15px;
+}

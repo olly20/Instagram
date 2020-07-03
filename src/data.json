@@ -1,0 +1,28 @@
+{
+  "images": [
+    {
+      "description": "Image 1",
+      "url": "https://images.unsplash.com/photo-1582799564713-c4082657d6d8"
+    },
+    {
+      "description": "Image 2",
+      "url": "https://images.unsplash.com/photo-1584899141943-e9b0215e225d"
+    },
+    {
+      "description": "Image 3",
+      "url": "https://images.unsplash.com/photo-1487804802814-207cdd14ebe9"
+    },
+    {
+      "description": "Image 4",
+      "url": "https://images.unsplash.com/photo-1500754088824-ce0582cfe45f"
+    },
+    {
+      "description": "Image 5",
+      "url": " https://images.unsplash.com/photo-1545851876-eb2bbc712ca6"
+    },
+    {
+      "description": "Image 6",
+      "url": "https://images.unsplash.com/photo-1575236172945-f167fdb6ee15"
+    }
+  ]
+}
