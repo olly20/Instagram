@@ -37,3 +37,50 @@ a.instagram {
   justify-content: center;
   flex-direction: center;
 }
+.image_ebs {
+  margin-right: 28px;
+  display: flex;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+}
+.EBS {
+  justify-content: center;
+  align-items: center;
+  padding: 0 8rem;
+}
+.text {
+  display: flex;
+  font-size: 28px;
+  line-height: 32px;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+}
+.content {
+  display: flex;
+}
+.image {
+  padding-top: 2rem;
+}
+.numbers {
+  display: flex;
+  align-items: center;
+  padding-bottom: 1rem;
+}
+.numbers > span {
+  font-size: 16px;
+  margin-right: 40px;
+}
+.imagegallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+.gallery {
+  width: 300px;
+  height: 300px;
+}
+.gallery > img {
+  width: 252px;
+  height: 252px;
+  margin: 15px;
+}
